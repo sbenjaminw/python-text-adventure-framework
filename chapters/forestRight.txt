@@ -1,0 +1,2 @@
+@name-1 turns right.
+The problem is, to the right there is a cliff-edge and @name-1 can't climb.

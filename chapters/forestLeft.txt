@@ -1,0 +1,2 @@
+@name-1 turns left. 
+There is a big, wild bear. It attacks. @name-1 dies.

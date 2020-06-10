@@ -1,0 +1,7 @@
+@name-1 is in the woods. It is dark, and spooky. What does @name-1 do?
+
+	1.	Turn left	[LEFT]
+	2.	Turn right	[RIGHT]
+	3.	Go back.	[BACK]
+
+@evt
